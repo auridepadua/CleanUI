@@ -4,6 +4,8 @@
 ## Author: Aurelio
 ## Version: 1.0
 ## IconTexture: Interface\ICONS\INV_Misc_Gear_01
+## X-Website: https://github.com/auridepadua/CleanUI
+## X-License: MIT
 ## SavedVariables: CleanUIDB
 
 CleanUI.lua
