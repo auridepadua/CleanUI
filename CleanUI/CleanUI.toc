@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: CleanUI
+## Notes: Hides bags, microbar, quest tracker and modifies XP bar
+## Author: Aurelio
+## Version: 1.0
+## IconTexture: Interface\ICONS\INV_Misc_Gear_01
+## SavedVariables: CleanUIDB
+
+CleanUI.lua
